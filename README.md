@@ -70,4 +70,8 @@ Through this project, I was able to:
 * Build confidence to start sharing projects on GitHub
 * Learning markdown to write Readme file
 
+**Acknowledgment**
+
+This project was created as part of my Python learning journey. It represents my first steps toward becoming a proficient Python developer.
+
 **Thank you**
