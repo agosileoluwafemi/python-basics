@@ -7,7 +7,7 @@ This repository documents my learning journey as a Python beginner. It covers th
 
 This project marks my transition from learning syntax to writing simple, functional programs.
 
-## What I Have Learned (Python Basics)
+## Part 1: What I Have Learned (Python Basics)
 During this learning phase, I focused on understanding the foundations of Python programming, including:
 
 * **Python Fundamentals**
