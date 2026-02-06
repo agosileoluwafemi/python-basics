@@ -102,21 +102,27 @@ During this learning phase, I learnt how and when to use the definite and indefi
 ## Mini-Project: Largest so far, Smallest so far, Count, Sum, Average, Found
 
 * **Largest so far**
+
 **Goal:** Find the largest number in a list.
 
 * **Smallest so far**
+
 **Goal:** Find the smallest number in a list.
 
 * **Count**
+
 **Goal:** Count how many items exist in a list.
 
 * **Sum**
+
 **Goal:** Add up all the numbers in a list.
 
 * **Average**
+
 **Goal:** Calculate the average of a list of numbers.
 
 * **Found**
+
 **Goal:** Check whether a value exists in a list.
 
 **Check this repo for the python script**
