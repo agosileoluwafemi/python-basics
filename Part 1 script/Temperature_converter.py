@@ -1,3 +1,5 @@
+# This program converts from degree celcius to fahrenheit and vis a vis.
+
 print("Your temperature converter")
 print("1. Convert fahrenheit to degree celcius")
 print("2. Convert degree celcius to fahrenheit")
